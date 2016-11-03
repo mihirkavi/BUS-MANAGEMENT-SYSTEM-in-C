@@ -1,0 +1,2 @@
+# BUS-MANAGEMENT-SYSTEM-in-C
+The above program is a simple model of a BUS management system. The bus management system in any organisation is usually subject to tedious work. This program enables the the user as well as the administration of the organization to manage the buses effectively. The innovation part in the program is the reproducibilty of the program. The admin of the organisation can re-enter the details of buses and their schedule  (yet this part is still under progress).
